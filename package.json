@@ -12,6 +12,7 @@
   "dependencies": {
     "@slack/bolt": "^1.4.1",
     "dotenv": "^8.2.0",
-    "nodemon": "^2.0.1"
+    "nodemon": "^2.0.1",
+    "serverless": "^1.58.0"
   }
 }
